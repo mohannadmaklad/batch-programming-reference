@@ -4,3 +4,5 @@
 
 ### Files
 1-basic_syntax : Basic commands: Printing to the user, Reading input from the user, Variables incrementing, if statements, goto statements, Looping over variables.
+
+2-file_operations : Basic commands to handle different file operations; reading directory files, reading files contents..
